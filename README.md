@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Power Platform**
 
-- 👯 I’m looking to collaborate on **Power Platform/ DevOps projects**
+- 👯 I’m looking to collaborate on **Power Platform projects**
 
-- 📫 How to reach me **Mohammadalaa.alsalman@gmail.com**
+- 📫 You can reach me on **Mohammadalaa.alsalman@gmail.com**
 
 - ⚡ Fun fact **I come from Syria**
 
